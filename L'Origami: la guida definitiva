@@ -1,1 +1,157 @@
+<html>
 
+    <title>
+
+        L'Origami: la guida definitiva
+
+    </title>
+
+    <head>
+
+        <body>
+
+            <h1>L'Origami: la guida defintiva</h1>
+
+            <h2>Definizione dell'Origami</h2>
+
+        <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8PDw0PDxANDQ0NDQ0NDg0NDQ8NDQ0NFREWFhURFRUYHSgsGBolGxUVITUtJyorLi4uFyAzODU4NygtLisBCgoKDg0OFRAQGiseFh4vLy4tLi0tLS8rLSsvLSsrLSszKy0rLSs3LSsrLS0tKyswKy0tLS0vLS0vKystKysrK//AABEIAK8BHwMBIgACEQEDEQH/xAAaAAADAQEBAQAAAAAAAAAAAAABAgMABAUG/8QAOxAAAgICAAMFBQYEBQUBAAAAAAECEQMSBCExBRMiQVEyYXGBkRQjQlKhwQYzYrEkgqLR8DRDc5LhB//EABkBAQEBAQEBAAAAAAAAAAAAAAABAgMEBf/EACwRAQEAAgECAwYGAwAAAAAAAAABAhEDITEEIkESUWGBocETcZGx0eEUMkL/2gAMAwEAAhEDEQA/APh1AdRHUR1E5O+klAOpVRCog0kohUS2plEGktQqBXUZRBpLU2hbUOoXSOgVArqbUCWhtS2odQI6m1Lam1AjqbUtqbUCOodSuhtAJam1Kam1AnqbUpqbUCWptSuoNQJOINS2oHECOoNS2pqAjqDUs4g1AlqDUq4g1AlqbUpRqAZQGUR1EZRIJpDajqIyRBNRDqUUQ6jYmoDalNQpAS0DqVo2oEtTaltTaAS1NqV0NoNiWptSuhtRsS1DqU1NqNieoNSuptQJag1K6m1AlqaimpqKJUaitAoCdAorRqGxGgUW1FcRsSaBRWgNFEqBRSgUBOgalGgUBZRColNQpGAiiFRKKIVEBKDqUUQ0BPUKiPQaATUOo9GUQEoND0agEo1FKNQXSdGopRgidGooagJ0CitAoGk6NRSgUBPUGpWhZSe0Y0ktJTuubuSj192r+pFmNu/gTUFFGjFRKjUUoDQ2J0Boo4i0XYRoVxKUBlEmgOJWhWgJUBoeQjKOyhlEZIZIw0VIbUag0AmoaHoKQCJBoag0AI4205Vyi0m7XK7r+zBR1cHGMu9hK/vMM1DXqs0anB/+0UvmcuGanGM10nFSXwaszMutg1BoejUaCUah9TahSUah6NQQlGaGo1BSUahqMEJRqHAAhTM4eCK/mQi91ab1kozjy8vaf/EBnDjywlxfFKCknCGGE9mnc47RbXupIze8ejik/D5Lfh+/9OqjUExp59EoFDtAYZIBoZiuRAGhJDOwUaE2wNDtAKJtCtFGKwO9IZI1DJGWwSDQaCkFCg0MkEIWg0EJA2Ces4S/LKMvo7OXHw7wZeJ4Z/8AZyuWP34cnij/AHaOii/b+GpcBxf4c+L7Jlf9cfZb+cWjlnfZzxvv6Je7nMNRqOrRTDUagFMGjUEAFBowAoDQxgEoA7QrKo4knKKfRyinXWr5nhdmtPjePlBSWKc5PG5Vs47ur+TR7kJU0/y3L6K/2PmeyePUuJp7bdzps3aetf7GP+/k9eON/wAbLKetk/SPomAVzsDNvEMpCtsNIzCUupg2K5oILEYHkBsNDMAHISUzQMhHIVsFgeugoyQyRl0ZIajIJkYwTUBqDRkhqIAkfQ8JwC4vs3Nh/HCc+7fpkSU4tfNngJH1X8ET/wCoh/45L/Un+xx55vBK+RwT2jGTVNrxL0kuUl8naGaPY7d7Llj4qcccW1xF5oxiukuk/grp/wCZnl5cUo1tGUbutotWbwymUlVM1HuS4fho5MXCSlLBxM+HxcRizR5ylkbnvGmmmlquT6p/E8njsE8E1jzRjCUr0lC+4zL1xt9H6xfNe9cyTllumfaQMot9E2/JJW2/RLzDsvVfVGbXqvqdNtx50u2eHX43a6+CfL9C+HjcU1KSnHWMdpSbUUl8+rJcR2bilLdcpNpzip1DL7pLzPB7XlJSX3UcPikqTj415NRXkS3J6+Lj4c7J1+j6CXH41JxltGSko1OEsfXo7lVL40W43NDCm5yjycVrF3Ln0pefyPCU1kh3UFKXKM805zzNd6l+Vefl0fQ4+MUsWvfJVFaYYQhFd43XK3Hmkn1afPl6mZlk9F8LwbnW/Ger1eP7bhj0ko7RnHZty0aXlyrzp/odXZvF/aYuWKMpapylFRbcIq7bry5M8OfAxyzUcuuHusiXcPZTnGTXiba6+bt+gXDJw+XNgi0ocRGM8bj4vDJtxin6O/0L7eunq1PA4Z4y/wCsvv7u3tLtpYJTx6xnKeGcU9/DHvIOKfTqrPn+x2o8XiTjJTcZ3z5Xq/X4EcGHxa5YyTqSim9E5x/C38qJ8RlePJtGTvHJKLb5x/p968jeLlnhJj+HOnq+22NseRwXaeSWCWWeJ3BpSlahBp9Hz6FMfbEW4qUWlKqnF7RXxtIu48M4M7Ok29PYGzExZoTvWUZV11adDFcrjZ0oNgYQEZKKx6A0a2EYNRmjJlCqIaDZgPUQyAhkYroKCAZGRqCjBsDIKRkZAE+h/guE++m4xbh3es5fhi204/Pkzh4DseeSpT+7g+av25L3LyR9BwGDJg/kzWtfyZq8bfPna5p8+vP4HLPKWWD3p8PdutnVLkunofD/AMQ9nZnPacnrOcMPh8Kxx2S6O/zJNrrR9hwfa9ycMuOWFp8pSe0JLotZL9+fPoeZ/wDoMf8ABznHrFSVrytWn9Yr6nC4zKdOljphyXDc13fG/wAUza7f4OP4fs2KLS8k5ZV+5x9m9syjBYs8VxXDSSTxZJPaPmnCfk1ya9K5UeR/EPbKydqcDxCrxcJwsp0+UZqU1NP5pk+yZOaa6RjXN86Okxlmr2c9OztRcGrniz09v5WdVmin5Nq069b5/Fc+DNwu3NSlF+72fodmThYvqsb/AMoYxjDol9KRqY+no3NTs8+PZkpdZWvzSjT/APp1YuBxRWsm5vrbdNP1VdCs5tkXZ0kalp8PZUJZFKEo21rJZ88oKbab3nPziqXJdbSE43snNOWOOCOfipQhtkyaKS2TpONN1FKgxkysCXF7eLxVxstm7Oyb4qcZxfG44uGec8c1COLHkSioxbuPXr5v8PuPL4ty1xvxJ433cJPrBwm5xX+uX0PouIkuIwfZ5xxynF/4fNPwyxSbTcXL8r/Q4cmPIlm4WUFvPXLLw7Sxyg6yNenSUvgjhl5a+34Tkx5eK7kmvT7/AFePx3ZnFZ4Yc0MeSWFwinOmod6nJVfqcPZ3AxeRKcO9mpS2U8yx4qp9ZLzv38z6LiMWTFxEcWPNJY8HB8NCTxzbjc8alkxSS63NybTslLg8fPV5YKTTnjjL7ubXqjvLZNR8zLPDLkuWd7twy7PeGPf/AGqWZSku7jNzjGNOtLpfVv4HJxWKUMlZJO1C8WPJKGZQi/ZjLm6VHo5OExTjqoxxtPwyhB7Jeje3i+ZaXBzlijgWXXFHnrHHLxu7uS3p8/cY8zvObw/fff6fk5c3ZXFJLJk7mMYJTeXFUZPG+aakkov6+YOD45SVfeZJObSisTc9K5Set2/gWwdh41K5y72Newk8fPybaZbgez54nPXPpDImpJYI5eXl4ZS/c1LY83LODKWXKX3dNfzVFjfo18U0/oF4wYuDnLJLJm4jJdctMad0/ZpypLr5M6s8YKTUHKUfJyioP6Wzrjdvmc3FjhfLlMnG0Bou0K0acNI6i6l6FoJpBxBRdoVou0eihkAKMOhkFAQUSgmRgogKR6fZHBqUlkmrhF+Ffmkv2RycFwrySpdFzk/Rf7n0eGKikkqSXJLokZy6zQ7IzvmdON/U4VP6epX7Qop9EvNt1+pz8uE6r3R7Wz5391hWt1vndeH3KLTvlfw+J4HbXFvuM3C45PKljUckpS8OyadRjXXl+p29p9sLWaxt7NUp+Ufej5TvJQdx+afPZe853C3P2t/L0dLyeWY6n3fH8Kn3uKbXswcW/fGUuR7PZngxRXm1bFhgUd49VKc5fBSd0dGLD0XkuSPRI4w29jJFceA6sWFGmnPj4dso+GR1pBDUefLAI8DPRcAd0HXGuCOJhnBqWy5ScJQ2VqWso6y5+VrkdyxgnE517OLOydK8mcKb5U5O3Xr/AMoTU7uIxHO8ZuOPJlvK2lgzpjM5tGMkzWnK6dSmOpHImx1JjTnXRYokZsZSNRzosRoawMqEaFY7FYZKxWMKwj0QoAUZbEZChRAxTh8UpyUYq238viyaPUwZceCP58jS2a9lLrVmbdD1OHwxxRUI831b9X6sTNxcMftySfp5/Q8Xie08kuUfCv6eX6nnTtu3zsz1qva4vt/yxx5/ml0+SPLycZObuUnL+y+RBYikcRLiQ0pWTcEWWMbuxMR5mXFzGx4zryYxY4zojY4FUjJBCgYJgMgo1gDUphJBsBNO2OSU4kZYzqaEaES1y92bQ6NQammNufUOpbUFFiVHUNDtAaNOZQMIGEpWKxhQgACwAegFAMZaMYCCAyY1k0MjIakFRQoUwHUUUSJJlIsKokZoyZmyCU4kmi7JSKECYwGMYAGMYAWUWwIBg1sRWEANgYDYLNM7ZsUzA2aRhWFsVsIDEYzEYSgwBYGEBgCwMDvQbFsxlowUxUEBgiBsB7CIEmg40ZE0xkyKrsbYnZrAZyFbBYLALABsBdBmwWLZrKC2CwNgsBrNYtmsA2BsDA2BmwMALNAgZhQjAbMxWBmKFisIAAsAQBWMxGB//9k=" style="float:left" vspace="7" hspace="7"><h4><font face="Geneva">Con il termine origami si intende l'arte di piegare
+
+                la carta (折り紙 ori-gami, dal giapponese, oru piegare e kami carta) e,
+
+                sostantivato, l'oggetto che ne deriva. Il termine è di origine giapponese,
+
+                ma esistono tradizioni della piegatura della carta anche in Cina
+
+                (Zhe Zhi" 折纸), tra gli Arabi e in Occidente. La tecnica moderna
+
+                dell'origami usa pochi tipi di piegature combinate in un'infinita
+
+                varietà di modi per creare modelli anche estremamente complessi.
+
+                In genere, questi modelli cominciano da un foglio quadrato, le
+
+                cui facce possono essere di colore differente, e continua senza fare
+
+                tagli alla carta, ma l'origami tradizionale era molto meno rigido
+
+                e faceva frequente uso di tagli, oltre a partire da basi non
+
+                necessariamente quadrate. Alla base dei principi che regolano l'origami,
+
+                vi sono senz'altro i principi shintoisti del ciclo vitale e dell
+
+                accettazione della morte come parte di un tutto: la forma di carta,
+
+                nella sua complessità e fragilità, è simbolo del tempio shintoista
+
+                che viene ricostruito sempre uguale ogni vent'anni, e la sua bellezza
+
+                non risiede nel foglio di carta. Alla morte del supporto, la forma viene
+
+                ricreata e così rinasce, in un eterno ciclo vitale che il rispetto
+
+                delle tradizioni mantiene vivo.</font></h4>
+
+            <h2>La Storia</h2>
+
+            <h3>Le origini</h3>
+
+            <h4>L'origine degli origami giapponesi è strettamente legata alla
+
+                religione shintoista e la valenza sacrale della carta è anche
+
+                testimoniata dal fatto che in giapponese la parola carta e dei si pronunciano
+
+                entrambe kami. Le prime forme di origami, dette go-hei, erano
+
+                costituite da semplici strisce di carta piegate in forme
+
+                geometriche e, unite ad un filo o ad una bacchetta di legno,
+
+                utilizzate per delimitare gli spazi sacri. A causa dell'estrema
+
+                semplicità di queste prime forme di piegatura della carta, alcuni
+
+                fanno invece risalire l'origine dell'origami all'epoca Muromachi
+
+                (1392-1573), riconducendola alle cerimonie del dono augurale del
+
+                noshi-awabi ai samurai: questo particolare mollusco, simbolo
+
+                dell'immortalità, veniva offerto all'interno di un astuccio di
+
+                carta, che con il passare del tempo divenne piegato in modo
+
+                sempre più complesso fino ad acquistare dignità di dono in sé.
+
+                È uso giapponese donare un origami a forma di gru. Infatti la gru
+
+                (per i giapponesi) è simbolo di purezza.</h4>
+
+            <h3>Il Periodo Heian</h3>
+
+            <img src="https://www.tokyokodokan.it/wp-content/uploads/2018/02/yoshitsune_samurai.jpg" style="float:right" hspace="7" vspace="7"><h4>Il periodo di affermazione degli origami nella religione shintoista e nella cultura giapponese è riconducibile al periodo Heian, durante il quale la corte imperiale raggiunse l'apice della propria raffinatezza.
+
+                È in questo periodo che si afferma, durante quella che sarebbe poi diventata l'Hinamatsuri o festa delle bambine, la tradizione della bambola fluttuante una bambola di carta veniva posta su una barca,
+
+                anch'essa realizzata ad origami, e lasciata trasportare dalla corrente di un fiume fino al mare. Successivamente quest'usanza venne sostituita da quella, più complessa, di ricostruire ritualmente con
+
+                l'origami la corte imperiale, con i suoi personaggi negli abiti rituali: per questo tale festa, detta festa delle bambine, viene anche indicata con il termine festa delle bambole, appunto. Analogamente,
+
+                al periodo Heian viene ricondotto anche il coinvolgimento dell'origami nelle cerimonie per la festa Kodomo no hi, dedicata ai bambini. Il nome originario della cerimonia, Tango no Sekku, la rende
+
+                identificabile con una versione giapponese della festa cinese della barca in forma di drago e fa riferimento ad un chiaro rapporto con l'acqua. Durante la festa, era uso che i bambini fabbricassero
+
+                bandiere di carta in forma di carpa da appendere fuori dalla porta di casa, usanza conservata ancora oggi. In queste strutture si inseriscono nella tradizione dei kusudama, o sfere medicinali, insieme
+
+                di ramoscelli ed erbe mediche che veniva appeso fuori dalla porta di casa per tenere lontani gli spiriti maligni e le malattie: anche questa abitudine, con il tempo, si è trasformata in un'usanza che coinvolge
+
+                l'origami. Oggi il kusudami è realizzato assemblando vari fiori di carta o, con una tecnica più complessa, da un unico grande foglio. Inoltre, le feste del Kodomo no hi e della Hinamatsuri nella sua forma originaria,
+
+                sono strettamente legate alla festa di Obon, tradizionale festività primaverile durante la quale venivano affidate alle acque di un fiume tradizionali barchette di carta che, secondo l'usanza, avrebbero recato le
+
+                anime dei morti tra i vivi per tre giorni di celebrazioni, prima di essere ricondotte al loro mondo. Un'altra festa shintoista dedicata ai bambini e durante la quale vengono realizzate offerte ad origami è il
+
+                Shichi-Go-San letteralmente sette-cinque-tre, con riferimento alle età dei bambini festeggiati). Anche la rana è una tradizionale forma origami di origine Heian, che trova significato nel doppio significato della
+
+                parola kaeru, che significa sia "rana" che "ritorno a casa" e che indicava quindi l'animale come un buon augurio per coloro che stavano per intraprendere un lungo viaggio. L'epoca Heian (e il periodo Nara in particolare)
+
+                vede infine l'importazione del buddhismo di numerose feste cinesi, tra cui il Tanabata, che vede la celebrazione attraverso decorazioni urbane originariamente realizzate ad origami e oggi ricavate dalla plastica, e lo
+
+                Hanami durante il quale si realizzano lanterne e decorazioni di carta e fiori. Il loto in particolare è una forma origami legata al buddhismo e a queste feste.</h4>
+
+                <h3>Il Periodo Edo</h3>
+
+                <img src="https://www.nihonjapangiappone.com/img/geostoria/tokugawa.jpg" style="float:left" vspace="7" hspace="7"><h4>La fioritura dell'origami nel periodo Edo è generalmente esemplificata con la storia della figura della gru, oggi uno degli origami tradizionali giapponesi più noti e la cui tecnica venne perfezionata proprioattorno al XVIII secolo: al 1797 appartiene infatti uno dei più noti libri sull'origami, Piegatura delle mille gru di Sembazuru Orikata. La pratica fa riferimento al particolare valore della gru come simbolo di immortalità e alla leggenda secondo la quale chiunque pieghi mille gru vedrà i desideri del proprio cuore esauditi. Realizzare per sé o regalare i tradizionali "grappoli" di mille gru (折鶴 oridzuru) è quindi considerata una pratica simile agli ex voto della cultura cattolica: l'aneddoto più noto legato a questa tradizione è quello di Sadako Sasaki, una bambina esposta alle radiazioni della bomba atomica di Hiroshima era sul proprio letto di morte a causa della leucemia. La bambina iniziò allora a piegare le mille gru, ma morì prima di riuscire a portare a compimento la propria opera: le venne eretta una statua nel Parco della Pace di Hiroshima, una ragazza in piedi con le mani aperte ed una gru che spicca il volo dalla punta delle sue dita, ogni anno questo monumento è adornato con migliaia di corone di mille gru.</h4>
+
+                <h3>l'Origami moderno e l'occidente</h3>
+
+                <h4>Come si è detto, la diffusione dell'origami in occidente si può ricondurre al libro di Sembazuru Orikata, affiancato dalla sezione sull'origami del testo enciclopedico Kan no mado (letteralmente, Finestra sulla stagione fredda): per il primo libro occidentale sull'origami, tuttavia, bisognerà attendere il 1928 con Fun with Paperfolding di Murray e Rigney, seguito dal Paper Magic di Robert Harbin (in gran parte basato, a sua volta, sugli studi Gershon Legman). Alla base di questi volumi vi è la prima teorizzazione occidentale riguardo all'origami, ad opera di Josef Albers, padre della teoria moderna dei colori e della corrente minimalista. All'interno del proprio progetto pedagogico, insegnò l'arte della piegatura degli origami tra il 1920 ed il 1930 adottando fogli circolari che venivano piegati in spirali e forme ricurve. Le sue opere hanno influenzato visivamente gli artisti di origami moderni come Kunihiko Kasahara, mentre le sue teorie si inseriscono nella pedagogia moderna attraverso l'opera di Friedrich Fröbel (1782 - 1852), che riconobbe il potenziale educativo degli origami e lo introdusse come strumento nel suo 'kindergarten system' nei primi anni dell'Ottocento. The Art of Chinese Paper Folding di Maying Soong (1948) è stato invece il primo libro a individuare le differenze tra l'origami e l'arte cinese di piegare la carta, sostanzialmente riconducibile all'interesse dei giapponesi per gli animali e a quello cinese per oggetti inanimati come le barche e gli edifici. Tra le tecniche di base, la base busta viene individuata come originaria della Cina: tra le forme tradizionali che prendono forma da essa, il più noto è il cosiddetto cappello dello studente. L'opera di Akira Yoshizawa ha imposto definitivamente il termine "origami" come sinonimo della piegatura della carta e in tutto il mondo solo alcuni ambienti conservatori cinesi utilizzano un altro termine, ovvero l'originario Zhe Zhi. Oggi, l'origami si è sviluppato come arte a sé ma ha contaminato anche altri ambiti, sia artistici che scientifici.</h4>
+
+            <h2>Le tipologie di pieghe</h2>
+
+            <img src="https://www.creativain.it/wp-content/uploads/2019/07/origami_03.jpg" style="float:right" vspace="7" hspace="7" width="700px" height="525"><h4><ul>Il procedimento per la maggior parte degli origami si può suddividere in passi più semplici costituiti da un succedersi di pieghe. Le principali sono:
+
+                <li>"piega a valle", ottenuta piegando il lembo del foglio in modo che all'osservatore la piega così ottenuta formi un avvallamento;</li>
+
+                <li>"piega a monte", ottenuta piegando il lembo del foglio in modo che all'osservatore la piega così ottenuta formi uno spigolo;</li>
+
+                <li>"piega a fisarmonica" o "doppia piega semplice", costituita da una piega a valle ed una a monte successiva;</li>
+
+                <li>"piega a libro", una piega a valle che coinvolge una parte di foglio già modellata da altre pieghe, che viene così mossa lungo una direttrice come, appunto, se si stesse sfogliando un libro</li></ul></h4>
+
+            <h1>Ringraziamenti e Fonti</h1>
+
+            <h2><ul>Speciali Ringraziamenti </h2>
+
+            <h4><li>Massimiliano Mancini, che ha scritto il codice per creare questa guida;</li></h4>
+
+            <h4><li>Visual Studio Code, che è stato utilizzato per scrivere il codice;</li></h4>
+
+            <h4><li>Wikipedia da cui ci siamo serviti per le informazioni.</li></h4>
+
+            </body>
+
+    </head>
+
+</html>
